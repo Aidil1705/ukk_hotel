@@ -1,0 +1,24 @@
+@font-face{   
+    font-family: 'hotek'; 
+    src: url('../font/BeautyMountainsPersonalUse-od7z.ttf');
+}
+.text{
+    font-family: "hotek";
+    font-size: 75px;
+    padding: 20px;
+    padding-top: 10px;
+    position: relative;
+    margin-top: 50px;
+    
+}
+table{
+ width: 90%;
+ max-width: 1600px;
+ border-spacing: 0;
+}
+table th, td{
+    border: 1px solid black;
+}
+.navbar{
+    margin-left: 60px;
+}
